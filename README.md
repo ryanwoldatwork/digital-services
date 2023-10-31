@@ -13,6 +13,7 @@
 |Department of State | Digital Lab | https://lab.america.gov/ | |
 |Department of the Treasury | Public Affairs Digital Services / Office of the Comptroller of the Currency | https://www.occ.gov | |
 |Environmental Protection Agency | One EPA Web Team | https://www.epa.gov | |
+| Federal Deposit Insurance Corporation | FDIC Digital | https://www.fdic.gov | |
 |Federal Reserve | Product Delivery - FedNow | https://explore.fednow.org/ | |
 |Federal Emergency Management Agency | FEMA DCX | https://www.fema.gov/ | fema-dcx@fema.dhs.gov |
 |GSA | Centers of Excellence | https://coe.gsa.gov | connectcoe@gsa.gov |
